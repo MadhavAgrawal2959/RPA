@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UKvW8SNYKU-WPGUZcNV_Kg" Reference="J9tCT1IDCEayWtMCm9fFbQ/q51E-oDwJEqejH6KJxiVqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="8, 129, 1920, 957" FuzzySelectorArgument="&lt;wnd aaname='Horizontal' cls='Chrome_RenderWidgetHostHWND' title='Chrome Legacy Window' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='Chrome Legacy Window' /&gt;" Guid="038afa46-f613-41ca-a56e-f0bcffd1e6a0" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Assisted Bot First Entry - Google Chrome' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fe9b1808-82ab-4e6c-9290-b82dfe89face" CvElementArea="669, 424, 301, 32" CvType="InputBox" DesignTimeRectangle="670, 426, 300, 31" ElementType="InputBox" Guid="634e4e42-d88f-4142-809b-ec930f54a2c2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="29c6f31419fe71cff824c92fec874d08.png" xmlns="">0FbRSbLrRYEK9QYwOIXPMQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

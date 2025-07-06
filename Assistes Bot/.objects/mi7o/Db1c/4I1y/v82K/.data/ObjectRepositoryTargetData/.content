@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qrWiXLkCX0-yvBAOwvmo2g" Reference="J9tCT1IDCEayWtMCm9fFbQ/v82KdUrz9UKm3guMiAb3sg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="10d6e364-3eec-4cac-bb5c-6d693c402a14" CvElementArea="646, 532, 98, 39" CvTextArea="670, 544, 50, 15" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="646, 500, 98, 39" ElementType="Button" Guid="67355094-6124-4401-8929-70037a05a79b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Assisted Bot First Entry - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="10d6e364-3eec-4cac-bb5c-6d693c402a14" CvElementArea="670, 426, 299, 31" CvType="InputBox" DesignTimeRectangle="669, 424, 301, 32" ElementType="InputBox" Guid="0aa8f464-3e57-4b0c-ac78-c19946f44158" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="250f10debe2fd455ee472232df53be9d.png" xmlns="">0mNvL7K48K0qJASvJeGIA6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

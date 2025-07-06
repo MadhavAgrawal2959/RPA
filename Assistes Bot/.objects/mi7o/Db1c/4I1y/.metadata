@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Assisted Bot First Entry - Google Chro",
+  "Type": "Screen",
+  "Id": "4I1yFxplQkCAM22XPc-prg",
+  "Reference": "J9tCT1IDCEayWtMCm9fFbQ/4I1yFxplQkCAM22XPc-prg",
+  "ParentRef": "J9tCT1IDCEayWtMCm9fFbQ/Db1c26DjbEa1vJXzR3HMzw",
+  "Created": "2025-07-06T00:17:30.5046066Z",
+  "Updated": "2025-07-06T00:17:30.5046066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

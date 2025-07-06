@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GYiTP3SHg0qFrgcOQ6NR-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="37c2ab29-d00f-4433-b282-5c9e677d5311" CvElementArea="646, 500, 98, 39" CvTextArea="670, 512, 50, 15" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="646, 500, 98, 39" ElementType="Button" Guid="489802b2-b2bb-4297-99d8-f725c6b31a4e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Assisted Bot First Entry - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4b2f5f3784845e60f09a13d0ce83dfeb.png" xmlns="">04dYDrs5e50y3gTT-g0QUqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
