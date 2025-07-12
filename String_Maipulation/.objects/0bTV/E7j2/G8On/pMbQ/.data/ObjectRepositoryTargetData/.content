@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wtm0NJimi0GA5Y_Nyxi15g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5b797290-6a2f-4de6-8b44-88877c827629" CvTextArea="530, 298, 12, 18" CvTextArgument=":" CvType="Text" DesignTimeRectangle="530, 298, 12, 18" ElementType="InputBox" Guid="8079d40b-f930-48c7-a4b7-9d357f646d8e" ScopeSelectorArgument="&lt;wnd app='wps.exe' appid='ZhuhaiKingsoftOfficeSoftw.WPSOffice2019_924xes6e8q1tw!WPSOffice2019' title='Document1 - WPS Office' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-5" Y="-2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="f10672b531050d123d0b8ec49de5c526.png" xmlns="">0LkEIDU74tEKxsYlF6o2aFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

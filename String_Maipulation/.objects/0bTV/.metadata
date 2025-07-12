@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Document1 - WPS Office",
+  "Type": "App",
+  "Id": "0bTV6xVOV0COmfCX63Exlg",
+  "Reference": "FXkH8W5xoE-PjsHrArgLcg/0bTV6xVOV0COmfCX63Exlg",
+  "Created": "2025-07-12T13:58:43.7943208Z",
+  "Updated": "2025-07-12T13:58:43.7943208Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Document1 - WPS Office",
+  "Type": "Screen",
+  "Id": "G8OnbotE7Uu8tV7BsA7e6Q",
+  "Reference": "FXkH8W5xoE-PjsHrArgLcg/G8OnbotE7Uu8tV7BsA7e6Q",
+  "ParentRef": "FXkH8W5xoE-PjsHrArgLcg/E7j2u8pU00qSc25c8Tk8kQ",
+  "Created": "2025-07-12T13:58:43.923853Z",
+  "Updated": "2025-07-12T13:58:43.923853Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
